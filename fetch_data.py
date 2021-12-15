@@ -29,7 +29,7 @@ for i in range(465267, 466268): #movie IMDb ID
 print("****************")
 print("movie_count: ", movie_count)
 
-with open("movieDictNew.json", "w") as outfile:
+with open("movieDictAllNew.json", "w") as outfile:
     json.dump(movie_dict, outfile)
 
 #combine all json file to one
