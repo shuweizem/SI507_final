@@ -12,19 +12,19 @@
 tree = ['Please choosing the movie runtime: (1)<=90 min (2)>90 min', 
            ['Please choosing the year of the movie: (1)<=1980 (2)1980~2000 (3)>2000', 
            ['Please choosing the genre of the movie: (1)Crime (2)Drama (3)Comedy (4)Horror (5)Action (6)Sci-Fi (7)Documentary (8)Animation (9)Thriller (10)Adventure (11)Other', 
-             [ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ]], 
+             [],[],[],[],[],[],[],[],[],[],[]], 
            ['Please choosing the genre of the movie: (1)Crime (2)Drama (3)Comedy (4)Horror (5)Action (6)Sci-Fi (7)Documentary (8)Animation (9)Thriller (10)Adventure (11)Other', 
-             [ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ]], 
+             [],[],[],[],[],[],[],[],[],[],[]], 
            ['Please choosing the genre of the movie: (1)Crime (2)Drama (3)Comedy (4)Horror (5)Action (6)Sci-Fi (7)Documentary (8)Animation (9)Thriller (10)Adventure (11)Other', 
-             [ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ]] 
+             [],[],[],[],[],[],[],[],[],[],[]] 
          ], 
            ['Please choosing the year of the movie: (1)<=1980 (2)1980~2000 (3)>2000',
            ['Please choosing the genre of the movie: (1)Crime (2)Drama (3)Comedy (4)Horror (5)Action (6)Sci-Fi (7)Documentary (8)Animation (9)Thriller (10)Adventure (11)Other', 
-             [ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ]], 
+             [],[],[],[],[],[],[],[],[],[],[]], 
            ['Please choosing the genre of the movie: (1)Crime (2)Drama (3)Comedy (4)Horror (5)Action (6)Sci-Fi (7)Documentary (8)Animation (9)Thriller (10)Adventure (11)Other', 
-             [ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ]], 
+             [],[],[],[],[],[],[],[],[],[],[]], 
            ['Please choosing the genre of the movie: (1)Crime (2)Drama (3)Comedy (4)Horror (5)Action (6)Sci-Fi (7)Documentary (8)Animation (9)Thriller (10)Adventure (11)Other', 
-             [ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ],[ ]] 
+             [],[],[],[],[],[],[],[],[],[],[]] 
          ] 
        ]
 
