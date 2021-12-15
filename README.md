@@ -1,5 +1,5 @@
 # How to supply API Keys
-- Apply an API Key at OMDb API. (Link: https://http://www.omdbapi.com/apikey.aspx)
+- Apply an API Key at OMDb API. (Link: http://www.omdbapi.com/apikey.aspx)
 - Fill your API Key into the fetch_data.py. (key = "your-api-key”)
 
 # Required Package
